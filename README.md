@@ -2,7 +2,7 @@
 
 ## T-Mobile Hacksgiving - Nov 2018
 
-## Our product "Retail'ored" was targeted to reduce the number of returns in digital commerce with a three-step approach. The solution combined user experience research and data science in a constructive way.
+## The product "Retail'ored" was targeted to reduce the number of returns in digital commerce with a three-step approach. The solution combined user experience research and data science in a constructive way.
 
 ## The three step approach consists of 
 ### 1. Ranking and recommender system using machine learning
