@@ -1,6 +1,6 @@
 # Hacksgiving
 
-## T-Mobile Hacksgiving - Nov 2018
+## T-Mobile Hacksgiving - Nov 2018 - 1st place winner
 
 ## The product "Retail'ored" was targeted to reduce the number of returns in digital commerce with a three-step approach. The solution combined user experience research and data science in a constructive way.
 
